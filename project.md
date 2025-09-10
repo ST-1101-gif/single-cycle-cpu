@@ -1,5 +1,5 @@
 # <center> Project: 单周期 CPU
-## <center> Author: 刘雪洁 3240102846
+## <center> Author: lxj
 ---
 <!-- pagebreak -->
 
